@@ -1,5 +1,8 @@
 _repo: Sararany_69155
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Móricz, Zsigmond
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
     - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69155#Sararany
 gutenberg_issued: '2022-10-14'
 identifiers:
   gutenberg: '69155'
